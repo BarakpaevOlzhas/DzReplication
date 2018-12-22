@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DzReplication\DzReplication\bin\Debug\DzReplication.exe.config
+C:\Users\User\source\repos\DzReplication\DzReplication\bin\Debug\DzReplication.exe
+C:\Users\User\source\repos\DzReplication\DzReplication\bin\Debug\DzReplication.pdb
+C:\Users\User\source\repos\DzReplication\DzReplication\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\DzReplication\DzReplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\DzReplication\DzReplication\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\DzReplication\DzReplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\DzReplication\DzReplication\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\source\repos\DzReplication\DzReplication\obj\Debug\DzReplication.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\DzReplication\DzReplication\obj\Debug\DzReplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DzReplication\DzReplication\obj\Debug\DzReplication.exe
+C:\Users\User\source\repos\DzReplication\DzReplication\obj\Debug\DzReplication.pdb
+C:\Users\User\source\repos\DzReplication\DzReplication\obj\Debug\DzReplication.Migrations.AddPersonForBook.resources
+C:\Users\User\source\repos\DzReplication\DzReplication\obj\Debug\DzReplication.csproj.GenerateResource.Cache
